@@ -1,0 +1,11 @@
+Django==5.0.3
+pandas==2.3.0
+scikit_learn==1.7.0
+numpy
+matplotlib
+gunicorn==23.0.0
+packaging==24.1
+sqlparse==0.5.1
+asgiref==3.8.1
+Djangorestframework==3.15.2
+tzdata==2024.1
